@@ -4,7 +4,7 @@ Company website. Includes:
 
 - MDX and Markdown Support 
 - Optimized for SEO (sitemap, robots, JSON-LD schema)
-- RSS Feed
+- RSS Feed 
 - Dynamic OG images 
 - Syntax highlighting
 - Tailwind v4
